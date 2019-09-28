@@ -49,7 +49,7 @@ sudo service apache2 restart
 apt-get install mysql-server
 mysql -u root -p
 SHOW DATABASES;
-CREATE DATABASE imoviesdbase;
+CREATE DATABASE dbase;
 USE dbase;
 
 ----------------------------------------------------
